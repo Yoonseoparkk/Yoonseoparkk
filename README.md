@@ -45,7 +45,7 @@
 <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit%20learn-F7931E?logo=scikit-learn&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Recoil" src="https://img.shields.io/badge/Recoil-#3578E5?logo=recoil&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Recoil" src="https://img.shields.io/badge/Recoil-3578E5?logo=recoil&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=fff&style=flat"></a>
 </p>
