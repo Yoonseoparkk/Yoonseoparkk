@@ -24,7 +24,9 @@
 <h2>👨‍💻 Programming and Markup Languages</h2>
 
 <p>
-<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
+<a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"></a>
 <a href="#"><img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
@@ -43,6 +45,7 @@
 <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit%20learn-F7931E?logo=scikit-learn&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Recoil" src="https://img.shields.io/badge/Recoil-#3578E5?logo=recoil&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=fff&style=flat"></a>
 </p>
@@ -78,4 +81,4 @@
 
 Credit : [Yoonseoparkk](https://github.com/Yoonseoparkk)
 
-Last Edited On: 18/11/2024
+Last Edited On: 1/10/2025
